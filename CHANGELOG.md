@@ -2,6 +2,13 @@
 
 
 
+## v0.3.1 (2024-01-10)
+
+### Fix
+
+* fix(ch): add second change ([`271e5ad`](https://github.com/mcallara/example/commit/271e5ad340c8b663262dd50dc8e5089c4b10d047))
+
+
 ## v0.3.0 (2024-01-10)
 
 ### Feature
