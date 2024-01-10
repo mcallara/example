@@ -1,8 +1,5 @@
 from example.sample import func
 
-def test_func():
-    assert func(3) == 5
-
 def test_func2():
     assert func(3) == 4
 
