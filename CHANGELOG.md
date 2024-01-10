@@ -2,6 +2,13 @@
 
 
 
+## v0.5.0 (2024-01-10)
+
+### Feature
+
+* feat(c): c ([`4c33742`](https://github.com/mcallara/example/commit/4c33742c66934546206dfbf31659e9af4c30c695))
+
+
 ## v0.4.2 (2024-01-10)
 
 ### Fix
