@@ -2,6 +2,13 @@
 
 
 
+## v0.3.2 (2024-01-10)
+
+### Fix
+
+* fix(pyp): fix ([`6d61c4b`](https://github.com/mcallara/example/commit/6d61c4be9c055884bd5d54f48a4649a2dc202969))
+
+
 ## v0.3.1 (2024-01-10)
 
 ### Fix
