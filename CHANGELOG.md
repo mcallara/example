@@ -2,6 +2,17 @@
 
 
 
+## v0.3.0 (2024-01-10)
+
+### Feature
+
+* feat(version): add poetry version update ([`37232e6`](https://github.com/mcallara/example/commit/37232e67c1aea9e016dd0b712992581831af2be3))
+
+### Unknown
+
+* Merge branch &#39;master&#39; of github.com:mcallara/example ([`c641712`](https://github.com/mcallara/example/commit/c64171283de83042635ad289d18df504d28ee9e3))
+
+
 ## v0.2.0 (2024-01-10)
 
 ### Feature
