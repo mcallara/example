@@ -2,6 +2,13 @@
 
 
 
+## v0.6.0 (2024-01-11)
+
+### Feature
+
+* feat(a): a ([`97b8386`](https://github.com/mcallara/example/commit/97b8386d12bbba5fea8b0ce62e79e707c30a9dc6))
+
+
 ## v0.5.0 (2024-01-10)
 
 ### Feature
