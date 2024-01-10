@@ -2,6 +2,13 @@
 
 
 
+## v0.4.2 (2024-01-10)
+
+### Fix
+
+* fix(a): s ([`f1551dc`](https://github.com/mcallara/example/commit/f1551dc3610435dd38c9a1d7914f921a5b9a95cc))
+
+
 ## v0.4.1 (2024-01-10)
 
 ### Fix
