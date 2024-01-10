@@ -2,6 +2,17 @@
 
 
 
+## v0.4.0 (2024-01-10)
+
+### Feature
+
+* feat(s): s ([`4951ece`](https://github.com/mcallara/example/commit/4951ece8e804560f4ffdfcf7250a271f3e963c65))
+
+### Unknown
+
+* Merge branch &#39;master&#39; of github.com:mcallara/example ([`d211a4b`](https://github.com/mcallara/example/commit/d211a4b65e98c68eff7e6ffaef14f7413f06057e))
+
+
 ## v0.3.3 (2024-01-10)
 
 ### Fix
