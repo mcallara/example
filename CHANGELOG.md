@@ -2,6 +2,17 @@
 
 
 
+## v0.3.3 (2024-01-10)
+
+### Fix
+
+* fix(r): r ([`9d955b5`](https://github.com/mcallara/example/commit/9d955b524b17d822e5248c87dcdd890e38e47553))
+
+* fix(s): fix? ([`da0897e`](https://github.com/mcallara/example/commit/da0897e5f1bf3c0aa2cc754059157c63dff3537b))
+
+* fix(sr): rs ([`a437ba6`](https://github.com/mcallara/example/commit/a437ba69c88a5fe0346e09138f540157d071f356))
+
+
 ## v0.3.2 (2024-01-10)
 
 ### Fix
