@@ -2,6 +2,13 @@
 
 
 
+## v0.2.0 (2024-01-10)
+
+### Feature
+
+* feat(newf): add newf ([`f8db1ab`](https://github.com/mcallara/example/commit/f8db1abd7d7405b4aac87fa8886566ec9b07c82a))
+
+
 ## v0.1.0 (2024-01-10)
 
 ### Feature
