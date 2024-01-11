@@ -2,6 +2,13 @@
 
 
 
+## v0.8.0 (2024-01-11)
+
+### Feature
+
+* feat(config): add config ([`d35687d`](https://github.com/mcallara/example/commit/d35687d8c5bceeb2b8324f0202aa68a81c3afdfa))
+
+
 ## v0.7.0 (2024-01-11)
 
 ### Feature
