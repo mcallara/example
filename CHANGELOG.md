@@ -6,7 +6,21 @@
 
 ### Feature
 
+* feat(x): x ([`54b2dee`](https://github.com/mcallara/example/commit/54b2dee5ad1aef521f55405b78926cf772f397da))
+
+* feat(mi): a ([`78b8187`](https://github.com/mcallara/example/commit/78b81870a7bcd57ec3fab863de352cbe20dcf7b6))
+
+* feat(w): 2 ([`95a647f`](https://github.com/mcallara/example/commit/95a647f956cbe9dda1625dfa40f876aa738a6d13))
+
 * feat(a): a ([`97b8386`](https://github.com/mcallara/example/commit/97b8386d12bbba5fea8b0ce62e79e707c30a9dc6))
+
+### Fix
+
+* fix(2): a ([`e63be08`](https://github.com/mcallara/example/commit/e63be08aeda2e14939e4b1152e16e6df83896443))
+
+* fix(b): b ([`c946a9b`](https://github.com/mcallara/example/commit/c946a9be7328be691f48a4af1998a70bd4f7b256))
+
+* fix(r): a ([`1611d9b`](https://github.com/mcallara/example/commit/1611d9bb949be26a62fec2685e23916e13d9b89c))
 
 
 ## v0.5.0 (2024-01-10)
