@@ -14,10 +14,14 @@ jobs:
       contents: write
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Checkout code
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - name: Python Semantic Release
-      uses: python-semantic-release/python-semantic-release@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        pip install python-semantic-release
+        semantic-release publish
