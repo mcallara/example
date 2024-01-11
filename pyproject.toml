@@ -29,7 +29,9 @@ major_on_zero = true
 tag_format = "v{version}"
 version_variable = [
     "example/__init__.py:__version__",
-    "pyproject.toml:tool.poetry.version"
+]
+version_toml = [
+    "pyproject.toml:tool.poetry.version",
 ]
 
 [tool.semantic_release.branches.main]
