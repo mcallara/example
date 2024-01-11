@@ -2,6 +2,13 @@
 
 
 
+## v0.7.0 (2024-01-11)
+
+### Feature
+
+* feat(e): add e ([`ba2ef78`](https://github.com/mcallara/example/commit/ba2ef782c90b7543a5e3605e65c0a9eb3e62555a))
+
+
 ## v0.6.0 (2024-01-11)
 
 ### Feature
