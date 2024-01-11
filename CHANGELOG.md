@@ -2,6 +2,13 @@
 
 
 
+## v0.8.1 (2024-01-11)
+
+### Fix
+
+* fix(2): b ([`41e1588`](https://github.com/mcallara/example/commit/41e15880989d85e0b4ea27b710dca6593f942f28))
+
+
 ## v0.8.0 (2024-01-11)
 
 ### Feature
